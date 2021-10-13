@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote fetch="https://gitee.com/openharmony-sig/" name="sig" review="https://gitee.com/openharmony-sig/"/>
+    <remote fetch="https://gitee.com/histreamer/" name="multimedia_histreamer" />
     <include name="default.xml"/>
     <project name="vendor_bestechnic" path="vendor/bestechnic" revision="OpenHarmony-3.0-LTS" remote="sig"/>
     <project name="device_bestechnic" path="device/bestechnic" revision="OpenHarmony-3.0-LTS" remote="sig"/>
+    <project name="multimedia_histreamer" path="foundation/multimedia/histreamer_lite" revision="master" remote="multimedia_histreamer"/>
 </manifest>
 
