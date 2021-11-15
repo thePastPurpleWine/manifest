@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://gitee.com/openharmony-sig/" name="sig" review="https://gitee.com/openharmony-sig/"/>
+    <remote fetch="https://gitee.com/histreamer/" name="multimedia_histreamer" />
+    <include name="default.xml"/>
+    <project name="devboard_device_goodix_gr551x" path="device/goodix" revision="master" remote="sig"/>
+    <project name="devboard_vendor_goodix_gr5515_sk_basic" path="vendor/goodix" revision="master" remote="sig"/>
+</manifest>
+
