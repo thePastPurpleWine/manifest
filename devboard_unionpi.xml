@@ -59,7 +59,7 @@
   <project name="device_hisilicon_third_party_uboot" path="device/hisilicon/third_party/uboot" revision="5879c6ae9ce37ba0e53ac95af6010733a32e0ccf" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS"/>
   <project name="device_manager" path="foundation/distributedhardware/devicemanager" revision="48c198120596a1b72dab9692eb669858aa538c1f" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS"/>
   <project name="device_qemu" path="device/qemu" revision="92e2763fddeeda1616b4fb3e571d7e2bc79aa938" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS"/>
-  <project name="device_unionpi" path="device/unionman" revision="master" remote="sig"/>
+  <project name="device_unionpi" path="device/unionman" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS" remote="sig"/>
   <project name="distributeddatamgr_appdatamgr" path="foundation/distributeddatamgr/appdatamgr" revision="c6f6243e1211347287f66e9bbd7bc7c22299d5bd" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS"/>
   <project name="distributeddatamgr_datamgr" path="foundation/distributeddatamgr/distributeddatamgr" revision="fa3aef618fbea855116a287c9f89bf2a433eea62" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS"/>
   <project name="distributeddatamgr_file" path="foundation/distributeddatamgr/distributedfile" revision="946aac059e2b1496c58521245718d5077e756c37" upstream="OpenHarmony-3.0-LTS" dest-branch="OpenHarmony-3.0-LTS"/>
