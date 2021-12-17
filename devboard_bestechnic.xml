@@ -5,7 +5,7 @@
     <include name="default.xml"/>
     <remove-project name="multimedia_histreamer"/>
     <project name="vendor_bestechnic" path="vendor/bestechnic" revision="OpenHarmony-3.0-LTS" remote="sig"/>
-    <project name="device_bestechnic" path="device/bestechnic" revision="OpenHarmony-3.0-LTS" remote="sig"/>
+    <project name="device_soc_bestechnic" path="device/bestechnic" revision="OpenHarmony-3.0-LTS" remote="sig"/>
     <project name="multimedia_histreamer" path="foundation/multimedia/histreamer" revision="master" remote="multimedia_histreamer"/>
 </manifest>
 
